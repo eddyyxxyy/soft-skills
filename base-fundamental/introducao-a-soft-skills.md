@@ -21,7 +21,7 @@ pelas empresas em 2025:
   inovadora. A TI muda constantemente e é necessário ser criativo para lidar com
   isso.
   - Persuasão: não basta apenas ter boas ideias, é necessário saber comunica-las
-  de convincente. Se trata da habilidade de influenciar pessoas e alinhar
+  de maneira convincente. Se trata da habilidade de influenciar pessoas e alinhar
   interesses para alcançar objetivos como, por exemplo: defender uma abordagem
   técnica para convencer a equipe ou um stakeholder sobre o valor de um projeto.
   - Colaboração: quando estamos em projetos complexos que demandam trabalho em
@@ -29,8 +29,8 @@ pelas empresas em 2025:
   conhecimentos, promover o aprendizado mútuo e alcançar metas coletivas dentro
   dos prazos.
   - Adaptação: a capacidade de se ajustar rapidamente a novas situações é cada
-  vez mais importante, é importante ver a mudança como verdadeiras oportunidades.
-  Mas é necessário de sempre se lembrar de aprender e crescer com as mudanças.
+  vez mais importante, é importante ver as mudanças como verdadeiras oportunidades.
+  É necessário de sempre se lembrar de aprender e crescer com as mudanças.
   - Inteligência emocional: profissionais com essa característica compreendem
   suas próprias emoções, conseguem gerenciá-las de maneira eficaz e tem empatia
   pelos outros. É essencial para construir relacionamentos sólidos, resolver
@@ -64,7 +64,7 @@ no desempenho e na longevidade das equipes.**
 
 ## Habilidades de um líder do futuro
 
-Segundo o especialista em gestão de talentos, Josh Bersin, destaca crescente
+Segundo o especialista em gestão de talentos, Josh Bersin, destaca a crescente
 dificuldade das empresas em encontrar profissionais com habilidades
 comportamentais essenciais como as citadas anteriormente, essenciais para criar
 ambientes de trabalho colaborativos, criativos e eficientes.
